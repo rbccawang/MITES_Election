@@ -1,4 +1,5 @@
-# MITES Applied Math - Election Project
+# Math-ocracy: Modeling Elections with Math
+Olutobi Adeyeri, Omo Imode, Rebecca Wang
 
 ## Problem Statement
 You have been commissioned to evaluate two different voting systems: Ranked
